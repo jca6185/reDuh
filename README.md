@@ -15,7 +15,7 @@ Paso 5 =  Instale el paquete php-curl, con el comando:  apt-get install php-curl
 
 Paso 6 = Inicie el Servicio de Apache, con el comando: service apache2 start
 
-Paso 7 = Descargue el archivo reDuhClient.jar en la maquina Windows/Linux desde donde desea hacer el Puente, se ejecutar con el comnado:
+Paso 7 = Descargue el archivo reDuhClient.jar en la maquina Windows/Linux desde donde desea hacer el Puente, se ejecuta con el comando:
          java -jar reDuhClient.jar http://IP_Kali/reDuh.php
          
          
