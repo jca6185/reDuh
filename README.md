@@ -1,7 +1,7 @@
 # reDuh
 reDuh Mejorado 2020
 
-Mejoras Realizadas Por Gabriel Weises
+Mejoras Realizadas Por Gabriel Weise
 
 Paso 1 =  Descargue el reDuh.php y reDuh.py y ubiquelos en la carpeta /var/www/html de su Kali Linux 2020
 
